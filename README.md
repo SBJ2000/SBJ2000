@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Devops approach**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SBJ2000/repositories](https://github.com/SBJ2000?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github/SBJ2000/repositories](https://github.com/SBJ2000?tab=repositories)
 
 - 📫 How to reach me **SelimJeddi1@gmail.com**
 
