@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **SelimJeddi1@gmail.com**
 
-- 📄 Know about my experiences [Resume_SelimBenJeddi](https://tinyurl.com/SelimBenJeddi)
+- 📄 Know about my experiences [SelimBenJeddi](https://selimbenjeddi.tn/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
